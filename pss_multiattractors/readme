@@ -1,0 +1,9 @@
+This directory contains pictures of Pss for a two gene model (added Hill functions) with various parameter sets. Parameters were
+chosen to obtain different number of (deterministic) stable states. 
+
+Different combinations:
+
+N attractors (N = 1, 2, 3, 4)
+Additive or multiplicative
+Noise amplitude (low, med, high)
+Noise asymmetry (none, med, high)
